@@ -1,10 +1,9 @@
 # Humor-detection-on-tweets
-MLG Apprentice Capstone project - Humor detection 
+## MLG Apprentice Capstone project - Humor detection 
 Swapnil P
 
 Things accomplished:
 
-So far, I have been able to 
 •	Scrape and clean the data required for project. Augment it with an additional humor corpus found online.
 •	Create a baseline model and evaluate different models for accuracy and recall metrics
 
